@@ -3,3 +3,7 @@
   flex-direction: row;
   flex-wrap: wrap;
 }
+
+.card-title {
+  border: 1px solid lightblue;
+}
